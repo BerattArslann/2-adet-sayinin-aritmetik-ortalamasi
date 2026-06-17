@@ -1,0 +1,1 @@
+# 2-adet-sayinin-aritmetik-ortalamasi
